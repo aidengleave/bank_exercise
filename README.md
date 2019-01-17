@@ -4,6 +4,13 @@
 
 * Use a timer for 15 minute cycles
 * Use a set of TDD process cards
+* Start with a feature test
+* Use 15 min cycles to write tests and write code to pass them
+* **CRITICAL:** If you don't finish in 15 mins
+  - stop
+  - reflect on what you learnt
+  - delete everything
+  - Try again with the knowledge you've gained **or** break your task into two tasks.
 
 ### Requirements
 
